@@ -17,13 +17,6 @@ Some projects are deployed online using modern deployment platforms:
 - Backend APIs are deployed using Render
 - Full-stack projects connect a deployed frontend with a deployed backend API
 
-### Deployed Project Example
-
-Task Manager is a full-stack project with a React frontend and a Node.js/Express backend.
-
-- Frontend Live Demo: https://task-manager-frontend-xi-topaz.vercel.app/
-- Backend API: https://taskmanager-backend-98x0.onrender.com
-
 ## Technologies
 
 ### Frontend
